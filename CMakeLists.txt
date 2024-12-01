@@ -7,5 +7,4 @@ include_directories(.)
 
 add_executable(AoC2024InC
     Inputs/inputday1
-    Day1.cpp
-    Day1.h)
+        Day1.c)
