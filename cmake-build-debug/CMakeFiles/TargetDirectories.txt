@@ -1,0 +1,3 @@
+/home/mattias/CLionProjects/AoC2024InC/cmake-build-debug/CMakeFiles/AoC2024InC.dir
+/home/mattias/CLionProjects/AoC2024InC/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mattias/CLionProjects/AoC2024InC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
