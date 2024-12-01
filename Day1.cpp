@@ -22,7 +22,6 @@ int main()
         putchar(ch);
     }
 
-
     fclose(fp);
 
 }
