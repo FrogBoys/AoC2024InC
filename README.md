@@ -4,7 +4,7 @@ This is my Advent of Code in C. In parrallel I will make attempts to code it all
 
 | Stars | Day |
 | -- | - |
-| | 1 |
+| ⭐⭐/⭐⭐ | 1 |
 | | 2 |
 | | 3 |
 | | 4 |
